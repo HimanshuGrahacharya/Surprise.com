@@ -1,0 +1,139 @@
+.homepage{
+    border: solid 0px rgba(0, 0, 0, 0.971);
+}
+.site-header{
+    border: solid 0px red;
+    height: 100px; 
+}
+.container{
+    border: solid 0px blue;
+    height: 50px;
+    width:600px;
+    margin-top:30px;
+    margin-left: 15px;
+}
+.nav{
+    border: solid 0px rgb(64, 159, 191);
+    height:50px;
+    width:600px;
+    margin-top:-35px;
+    position: relative;
+    margin-left:820px; 
+    display: flex;
+    font-size: large;
+    line-height: 20px;
+    
+   
+}
+.nav ,a {
+    text-decoration: none;
+}
+
+.container2{
+    border: solid 0px pink;
+}
+.container3{
+    border: solid 1px rgb(184, 101, 6);
+    margin-top: -60px;
+}
+.box1{
+    border: solid 0px black;
+}
+.box2{
+    border: solid 0px blue;
+}
+.join-header{
+    text-align: center;
+    font-size:70px;
+    margin-top: -10px;
+}
+
+.text{
+    text-align: center;
+    margin-top: -50px;
+    font-size:x-large;
+}
+
+.va-box{
+    border: solid 0px rgb(53, 53, 229);
+    background-color: rgb(53, 53, 229);
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    border-radius: 25px;
+    text-align: center;
+}
+.va-word{
+    padding-top: 12px;
+    color: aliceblue;
+    font-size: large;
+    font-weight: bolder;
+}
+.container-4{
+    border: solid 0px black;
+    height:150px;
+    width:auto;
+} 
+.inner-con-4{
+    border: solid px rgb(198, 134, 150);
+}
+.find-header{
+    border: solid 0px rgb(250, 0, 62);
+    text-align: center;
+    font-size: 43px;
+}
+.paragraph{
+    border: solid 0px rgb(13, 213, 36);
+    text-align: center;
+    font-size:x-large;
+    margin-top: -35px;
+}
+.paragraph1{
+    border: solid 0px rgb(210, 45, 147);
+    
+    
+    margin-top: 10px;
+}
+.text1{
+    margin-top: -2px;
+}
+
+.container-5{
+    border: solid 0px rgb(9, 237, 237);
+    height: 650px;
+}
+.inner-con-5{
+    border: solid 1px rgb(199, 237, 9);
+    height: 200px;
+    margin-top: 2%;     
+}
+.find-container{
+    border: solid 0px rebeccapurple;
+    height:90px;
+    display: flex;
+    width:1000px;
+    margin-left: 230px;
+
+}
+.find-inner-container{
+    border: solid 0px rgb(220, 222, 91);
+    display: flex;
+    width:700px;
+    
+
+}
+
+
+
+    
+
+
+.search-box{
+    border:solid 0px black;
+    display: flex;
+    height:50px;
+    width:200px;
+    margin-top:17px;
+    
+
+}

@@ -1,0 +1,255 @@
+.homepage{
+    border: solid 2px none;
+    height: 750px;
+    background-image: url(./image/new_homepage_background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.container{
+    border:solid 0px rgb(77, 113, 117) ;
+    height:750px;
+    width:100;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.header{
+    
+    height:150px;
+    
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: 100%;
+    margin-top: 2px;
+display: flex;
+
+}
+
+.header div a.logo {
+	float: left;
+	margin:  40px;
+	padding: 0;
+	
+    margin-top: 50px;
+    
+}
+.header div a.logo img {
+	display: block;
+	margin: 0;
+	padding: 0;
+	
+    color: white;
+    
+}
+.nav{
+    border: solid px white;
+    height:90px;
+    width:650px;
+    margin-top:50px;
+    position: relative;
+    margin-left:700px; 
+    display: flex;
+    justify-content: space-around; 
+   
+}
+.nav-details{
+    display: flex;
+    justify-content: space-around;
+}
+.open{
+    margin-left:10px;
+}
+
+ 
+
+.header div .nav li a {
+    color:white;
+   font-size: larger;
+   text-decoration: none;
+}
+.section-header{
+    border: solid px white;
+    height:110px;
+    width:100%;
+    display:flex;
+
+}
+
+.section-header .header--font{
+    font-size:25px ;
+    color: white;
+}
+
+.title{
+    color: white;
+    font-size: 90px;
+   
+    margin-top: 5px;
+    margin-left:-135px;
+    
+}
+.header-font{
+    font-size: 30px;
+    line-height: 72px;
+    color: #fff;
+    display: inline-flex;
+    margin-left: 22px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-style:italic;
+    margin-top:30px;
+}
+.header-font1{
+    font-size: 30px;
+    line-height: 72px;
+    color: #fff;
+    display: inline-flex;
+    margin-left: 32px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-style:italic;
+    margin-top: -40px;
+}
+
+.App-box{
+border:solid 0px rgb(138, 134, 134);
+height: 250px; 
+width:100%;
+}
+.tag{
+    border: solid 0px white;
+    height: 40px;
+    width:800px;
+}
+       .app-links-wrapper {
+        display: flex;
+        justify-content: center;
+        gap: 18px;
+        margin-left: -950px;
+       
+        
+      }
+
+      .app-links {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-left: -100px;
+      }
+
+      .bttn-item {
+        height: -16px;
+        padding:0;
+      }
+
+      .site-footer-brand {
+        border: solid  0px rgb(172, 62, 62);
+        align-self: end;
+        margin-top: 8px;
+        line-height: 1;
+        margin-top:70px;
+        width: min-content;
+    }
+   
+    .site-footer
+     {
+        border: solid  0px white;
+        height: 140px;
+        background: transparent !important;
+        color: #fff !important;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 0 0 20px 0;
+    }
+    .site-footer {
+        position: relative;
+        padding-top: 44px;
+        padding-bottom: 48px;
+        background-color: #fff;
+        color: #646f79;
+        font-size: .875rem;
+        font-weight: 500;
+        line-height: 1.5rem;
+        letter-spacing: -0.2px;
+    }
+    .site-footer-navbar{
+        
+        border: solid 0px rgb(204, 203, 203);
+        width: min-content;
+       width:900px;
+       margin-left:20%;
+       
+    }
+    .footer-menu{
+        border: solid 0px rgb(154, 137, 62);
+        display: flex;
+        width: 400px;
+        margin-left:500px;
+       
+       
+
+    }
+    
+     .a{
+        margin-left: 10%;
+       
+     }   
+    
+
+    .site-footer .footer-menu {
+        border: solid px rgb(229, 159, 159);
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 250px;
+       
+        
+    }
+   .site-footer-sosial-link ,a{
+    border: solid px navajowhite;
+    text-decoration: none;
+   }
+    
+    
+    
+    .site-footer-sosial-list
+    {
+        border: solid px white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -3%;
+        padding-left: 10px;
+    }
+   
+    .linkedin{
+        border:solid 0px white;
+        align-items: center;
+        margin-left: 46%;
+        margin-top: -5%;
+    }
+    .twitter{
+        border:solid 0px white;
+        align-items: center;
+        margin-left: 65%;
+        margin-top: -5%;
+    }
+    .instagram{
+        border:solid 0px white;
+        align-items: center;
+        margin-left: 75%;
+        margin-top: -5%;
+    }
+    .facebook{
+        border:solid 0px white;
+        align-items: center;
+        margin-left: 85%;
+        margin-top:-5%;
+    }
+    
